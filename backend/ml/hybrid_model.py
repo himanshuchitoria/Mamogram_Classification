@@ -29,7 +29,7 @@ MODELS_DIR = os.path.join(BASE_DIR, "models")
 
 # Model file paths
 MODEL_PATHS = {
-    "ann": os.path.join(MODELS_DIR, "ann_model.h5"),
+    "ann": os.path.join(MODELS_DIR, "ann_model.keras"),
     "logistic_regression": os.path.join(MODELS_DIR, "logistic_regression.joblib"),
     "gradient_boosting": os.path.join(MODELS_DIR, "gradient_boosting.joblib"),
     "random_forest": os.path.join(MODELS_DIR, "random_forest.joblib"),
