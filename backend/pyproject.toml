@@ -6,8 +6,8 @@ build-backend = "setuptools.build_meta"
 name = "mamogram-backend"
 version = "0.1.0"
 description = "Backend for Mamogram Classification (FastAPI + ML)."
-readme = "../README.md"
-requires-python = ">=3.8"
+readme = "README.md"
+requires-python = ">=3.9"
 dependencies = [
   "fastapi==0.115.0",
   "uvicorn[standard]==0.30.0",
@@ -34,6 +34,3 @@ dependencies = [
 ]
 
 [tool.uv]
-venv = "../.venv"
-python = "python3"
-requirements = "requirements.txt"
