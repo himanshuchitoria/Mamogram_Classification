@@ -1,4 +1,4 @@
-# AI4BCancer: AI-Assisted Breast Cancer Classification System 🧬
+# Lumino Oncology: AI-Assisted Breast Cancer Classification System 🧬
 
 AI4BCancer is a comprehensive, production-ready full-stack application that provides highly accurate Breast Cancer classification by processing mammogram images through a hybrid AI pipeline. It uses advanced Ensemble Machine Learning and Deep Vision models to classify findings, generate feature-level explanations (XAI), and produce robust clinical BI-RADS reports. Furthermore, it integrates a proximity-based oncology hospital locator for immediate patient care routing.
 
