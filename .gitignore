@@ -55,3 +55,7 @@ data/processed/
 models/*.pth
 models/*.h5
 logs/
+
+# Frontend dependencies
+node_modules/
+frontend/node_modules/
