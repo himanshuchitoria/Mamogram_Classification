@@ -34,3 +34,11 @@ dependencies = [
 ]
 
 [tool.uv]
+
+[tool.setuptools]
+include-package-data = false
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["ml*", "reports*"]
+namespaces = false
