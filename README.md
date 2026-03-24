@@ -11,7 +11,7 @@ AI4BCancer is a comprehensive, production-ready full-stack application that prov
 - 🔍 **Explainable AI (XAI)**: Visualizes predictions down to the feature level, generating LIME (Local Interpretable Model-Agnostic Explanations) graphs and detailed positive/negative contributing factors.
 - 📄 **Automated PDF Reports**: Generates professional, clinically-formatted structured BI-RADS analysis reports in PDF format for direct printing/sharing.
 - 🗺️ **Hospital Locator**: Automatically detects user location and searches over OpenStreetMap & curated databases to locate nearby specialized cancer clinics and general hospitals, computing actual distances with interactive map displays.
-
+ 
 ---
 
 ## 🏗️ Architecture
