@@ -41,7 +41,7 @@ Modern SPA built with **React** and **Vite**, utilizing responsive, minimal gene
 
 ---
 
-## 🛠️ System Requirements & Setup
+##  System Requirements & Setup
 
 ### **Prerequisites**
 - Python 3.9+ 
